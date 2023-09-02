@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://bigota.d.miui.com/V12.5.5.0.RGICNXM/miui_PICASSO_V12.5.5.0.RGICNXM_117473f5f1_11.0.zip
+  ROM_URL: https://xiaomi.baishancdnx.cn/xdispatch6f0e9375702f331c/bigota.d.miui.com/V13.0.24.0.SLNCNXM/miui_RUBENS_V13.0.24.0.SLNCNXM_231a525b01_12.0.zip?bsreqid=4eef8891d4b06a7bd5af8abf509547bf&DPhost=xiaomi.baishancdnx.cn
   ROM_NAME: MIUI
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
